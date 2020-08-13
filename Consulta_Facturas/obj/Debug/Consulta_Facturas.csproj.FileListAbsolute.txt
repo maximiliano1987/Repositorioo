@@ -1,0 +1,11 @@
+C:\Users\Max\source\repos\Consulta_Facturas\bin\Debug\Consulta_Facturas.exe.config
+C:\Users\Max\source\repos\Consulta_Facturas\bin\Debug\Consulta_Facturas.exe
+C:\Users\Max\source\repos\Consulta_Facturas\bin\Debug\Consulta_Facturas.pdb
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.Form1.resources
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.Properties.Resources.resources
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.exe
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.pdb
+C:\Users\Max\source\repos\Consulta_Facturas\obj\Debug\Consulta_Facturas.Form2.resources
